@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 -->
 ## Skills
 
-[![](https://img.shields.io/badge/-Visual%20Studio%20Code-5C2D91?style=flat&logoColor=white&logo=visual-studio)](https://github.com/AmoryDanvy)
-[![](https://img.shields.io/badge/-Python-4eaa25?style=flat&logoColor=white&logo=python)](https://github.com/AmoryDanvy)
-[![](https://img.shields.io/badge/-HTML-E34F26?style=flat&logoColor=white&logo=html5)](https://github.com/AmoryDanvy)
-[![](https://img.shields.io/badge/-SQL-4479A1?style=flat&logoColor=white&logo=mysql)](https://github.com/AmoryDanvy)
-[![](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logoColor=white&logo=unrealengine)](https://github.com/AmoryDanvy)
-[![]()](https://github.com/AmoryDanvy)
+[![](https://img.shields.io/badge/-Visual%20Studio%20Code-5C2D91?style=flat&logoColor=white&logo=visual-studio)](https://github.com/amory-danvy)
+[![](https://img.shields.io/badge/-Python-4eaa25?style=flat&logoColor=white&logo=python)](https://github.com/amory-danvy)
+[![](https://img.shields.io/badge/-HTML-E34F26?style=flat&logoColor=white&logo=html5)](https://github.com/amory-danvy)
+[![](https://img.shields.io/badge/-SQL-4479A1?style=flat&logoColor=white&logo=mysql)](https://github.com/amory-danvy)
+[![](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logoColor=white&logo=unrealengine)](https://github.com/amory-danvy)
+[![]()](https://github.com/amory-danvy)
